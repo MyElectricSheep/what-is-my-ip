@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/what-is-my-ip/static/css/main.ad1d2fe2.chunk.css",
+    "main.js": "/what-is-my-ip/static/js/main.00281ab7.chunk.js",
+    "main.js.map": "/what-is-my-ip/static/js/main.00281ab7.chunk.js.map",
+    "runtime~main.js": "/what-is-my-ip/static/js/runtime~main.51ee640d.js",
+    "runtime~main.js.map": "/what-is-my-ip/static/js/runtime~main.51ee640d.js.map",
+    "static/css/2.d8e900f4.chunk.css": "/what-is-my-ip/static/css/2.d8e900f4.chunk.css",
+    "static/js/2.7869142f.chunk.js": "/what-is-my-ip/static/js/2.7869142f.chunk.js",
+    "static/js/2.7869142f.chunk.js.map": "/what-is-my-ip/static/js/2.7869142f.chunk.js.map",
+    "index.html": "/what-is-my-ip/index.html",
+    "precache-manifest.450c381e41c5d2194c23982c10a2d10b.js": "/what-is-my-ip/precache-manifest.450c381e41c5d2194c23982c10a2d10b.js",
+    "service-worker.js": "/what-is-my-ip/service-worker.js",
+    "static/css/2.d8e900f4.chunk.css.map": "/what-is-my-ip/static/css/2.d8e900f4.chunk.css.map",
+    "static/css/main.ad1d2fe2.chunk.css.map": "/what-is-my-ip/static/css/main.ad1d2fe2.chunk.css.map",
+    "static/media/semantic.min.css": "/what-is-my-ip/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
