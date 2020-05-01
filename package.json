@@ -1,5 +1,6 @@
 {
-  "name": "react-whats-my-ip-correction",
+  "name": "what-is-my-ip",
+  "homepage": "https://MyElectricSheep.github.io/what-is-my-ip",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -20,13 +21,16 @@
     "semantic-ui-react": "0.88.2"
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
